@@ -1,0 +1,2 @@
+ãªã³ã¯1,https://www.ymori.com/books/python2nen/test1.html
+ãªã³ã¯2,https://www.ymori.com/books/python2nen/test3.html
